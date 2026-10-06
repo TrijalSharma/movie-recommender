@@ -1,0 +1,12 @@
+# Virtual environment
+movie_env/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw dataset files (not needed by the web app, saves upload time)
+data/
