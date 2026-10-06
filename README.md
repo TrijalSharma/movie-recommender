@@ -2,6 +2,11 @@
 
 A content-based movie recommender system built with Python and Streamlit. This application suggests the top 5 most similar movies based on a user's selection using natural language processing and cosine similarity.
 
+## 🚀 Live Demo
+You can test the movie recommendation system live in your browser by clicking the badge below:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.png)](https://movie-recommender-by-trijal.streamlit.app/)
+
 ## ✨ Features
 * **Interactive UI:** Clean, web-based interface built entirely in Python using Streamlit.
 * **Content-Based Filtering:** Recommends movies by analyzing metadata (genres, keywords, cast, crew, and overview) rather than user search history.
