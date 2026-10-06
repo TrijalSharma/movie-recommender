@@ -8,7 +8,10 @@ A content-based movie recommender system built with Python and Streamlit. This a
 * **Pre-trained Models:** Utilizes serialized `.pkl` files for instant recommendations without recalculating machine learning algorithms on the fly.
 
 ## 📸 Interface Snapshot
-*(You can upload the screenshots you took of your web app to GitHub and link them here later)*
+<img width="1353" height="656" alt="image" src="https://github.com/user-attachments/assets/21b5e528-760d-41cf-814f-4a0884adb64b" />
+<img width="1178" height="596" alt="image" src="https://github.com/user-attachments/assets/f66e5d6d-de0f-437c-9303-9bdc367e8e7d" />
+
+
 * **Main Screen:** Dropdown menu to select from thousands of movie titles.
 * **Recommendations:** Displays a clean list of the top 5 closest matches instantly upon clicking the recommendation button.
 
